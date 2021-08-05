@@ -5349,71 +5349,173 @@ https://jukin-weatherspy-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="WeatherSpyUK.us" group-title="Weather" tvg-logo="https://i.imgur.com/SAZF1cq.jpg",WeatherSpy (UK)
 https://jukin-weatherspy-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Canais",SBT GO HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",SBT GO HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1285729810_b796000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",SBT GO SD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",SBT - CENTRO OESTE MT
-http://streamingbr.engelhosting.com.br:1935/tvcentro/ngrp:tvcentro_all/chunklist_w1194166640_b899072.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",SBT PI HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",SBT PE SD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",SBT - PE | CARUARÚ
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",SBT MA
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",SBT - MA | IMPERATRIZ
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
-#EXTINF:0 tvg-id="Globosp.br" group-title="Canais",Globo SD
-https://apk25.futeboltvgratis.com/live/17/playlist.m3u8
-#EXTINF:0 tvg-id="Bandsp.br" group-title="Canais",BAND SP
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
-#EXTINF:0 tvg-id="tnt" group-title="Canais",TNT
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
-#EXTINF:0 tvg-id="Redetv.br" group-title="Canais",Rede TV
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",BAND PA
-http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?wowzasessionid=1122952623
-#EXTINF:0 tvg-id="ext" group-title="Canais",BAND PA
-http://stmv3.srvstm.com:1935/rbatv12/rbatv12/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV SP
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV SP
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV SP
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV RJ
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV PB
-https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV PB
-https://v5.ciclano.io:1443/8064/8064/chunklist_w1831324492.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV! - RONDÔNIA
-http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",RECORD TV ÁGUA BOA
-http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",TV ACRITICA - RECORD AM
-https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",RECORD GO
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w1106684646.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",RECORD GO
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",RIC TV - RECORD PARÁ
-http://streaming.sc.gruporic.com.br:80/show/ric_src.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",RIC TV - RECORD PARÁ
-http://streaming.sc.gruporic.com.br:80/show/ric_hd720.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",RECORD RN
-http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
-#EXTINF:0 tvg-id="Record.br" group-title="Canais",RECORD MT
-http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
-#EXTINF:0 tvg-id="Record.br" group-title="Canais",RECORD MT
-http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canais",TV VITORIA - RECORD
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
+#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="CANAIS: HD",Warner Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16765
+#EXTINF:0 tvg-id="AyE.mx" group-title="CANAIS: HD",A&E HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16691
+#EXTINF:0 tvg-id="mgm-int" group-title="CANAIS: HD",AMC HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16692
+#EXTINF:0 tvg-id="animal_rus" group-title="CANAIS: HD",Animal Planet HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16693
+#EXTINF:0 tvg-id="Arte1.br" group-title="CANAIS: HD",Arte 1 HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16694
+#EXTINF:0 tvg-id="AXN.bg" group-title="CANAIS: HD",AXN HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16695
+#EXTINF:0 tvg-id="Bandnews.br" group-title="CANAIS: HD",Band News HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16696
+#EXTINF:0 tvg-id="Bandsp.br" group-title="CANAIS: HD",Band SP HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16697
+#EXTINF:0 tvg-id="Bandsports.br" group-title="CANAIS: HD",Band Sports HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16698
+#EXTINF:0 tvg-id="boomerang" group-title="CANAIS: HD",Boomerang HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16699
+#EXTINF:0 tvg-id="Sony.br" group-title="CANAIS: HD",Canal Sony HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16700
+#EXTINF:0 tvg-id="cartoon" group-title="CANAIS: HD",Cartoon Network HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16701
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="CANAIS: HD",Cinemax HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16702
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS: HD",Combate HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16703
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="CANAIS: HD",Comedy Central HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16704
+#EXTINF:0 tvg-id="discov_rus" group-title="CANAIS: HD",Discovery Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16705
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="CANAIS: HD",Discovery H&H HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16706
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="CANAIS: HD",Discovery Kids HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16707
+#EXTINF:0 tvg-id="discov_sci" group-title="CANAIS: HD",Discovery Science HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16708
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="CANAIS: HD",Discovery Theater HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16709
+#EXTINF:0 tvg-id="tlc-russia" group-title="CANAIS: HD",Discovery TLC HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16710
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="CANAIS: HD",Discovery Turbo HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16711
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="CANAIS: HD",Discovery World HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16712
+#EXTINF:0 tvg-id="disney" group-title="CANAIS: HD",Disney Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16713
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="CANAIS: HD",Disney Junior HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16714
+#EXTINF:0 tvg-id="disney-xd-blt" group-title="CANAIS: HD",Disney XD HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16715
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="CANAIS: HD",ESPN 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16716
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="CANAIS: HD",ESPN Brasil HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16717
+#EXTINF:0 tvg-id="ESPN.uk" group-title="CANAIS: HD",ESPN HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16718
+#EXTINF:0 tvg-id="food-network-rus" group-title="CANAIS: HD",Food Network HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16719
+#EXTINF:0 tvg-id="otr" group-title="CANAIS: HD",STAR CHANNEL HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16720
+#EXTINF:0 tvg-id="fox-life" group-title="CANAIS: HD",Fox Life HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16721
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",STAR HITS 1 HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16722
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",STAR HITS 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16723
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="CANAIS: HD",Fox Sports 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16724
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="CANAIS: HD",Fox Sports 1 HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16725
+#EXTINF:0 tvg-id="FX.uk" group-title="CANAIS: HD",FX HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16726
+#EXTINF:0 tvg-id="Globonews.br" group-title="CANAIS: HD",Globo News HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16727
+#EXTINF:0 tvg-id="Globonordeste.br" group-title="CANAIS: HD",Globo Nordeste HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16728
+#EXTINF:0 tvg-id="Globorj.br" group-title="CANAIS: HD",Globo RJ HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16729
+#EXTINF:0 tvg-id="Globosp.br" group-title="CANAIS: HD",Globo SP HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16730
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",Globo TV Bahia HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16731
+#EXTINF:0 tvg-id="Gloob.br" group-title="CANAIS: HD",Gloob HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16732
+#EXTINF:0 tvg-id="history2-rus" group-title="CANAIS: HD",H2 HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16733
+#EXTINF:0 tvg-id="hgtv" group-title="CANAIS: HD",HGTV HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16734
+#EXTINF:0 tvg-id="history-rus" group-title="CANAIS: HD",History Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16735
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",ID Investigao Discovery HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16736
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",Mais Globosat HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16737
+#EXTINF:0 tvg-id="mtv-rus" group-title="CANAIS: HD",MTV HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16738
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="CANAIS: HD",MTV Live HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16739
+#EXTINF:0 tvg-id="Multishow.br" group-title="CANAIS: HD",Multishow HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16740
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",Nat Geo Kids HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16741
+#EXTINF:0 tvg-id="natgeowild" group-title="CANAIS: HD",Nat Geo Wild HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16742
+#EXTINF:0 tvg-id="natgeo" group-title="CANAIS: HD",National Geographic HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16743
+#EXTINF:0 tvg-id="nick-jr" group-title="CANAIS: HD",Nick Jr HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16744
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="CANAIS: HD",Nickelodeon HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16745
+#EXTINF:0 tvg-id="paramount" group-title="CANAIS: HD",Paramount Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16746
+#EXTINF:0 tvg-id="RecordNews.pt" group-title="CANAIS: HD",Record News HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16747
+#EXTINF:0 tvg-id="Recordsp.br" group-title="CANAIS: HD",Record SP HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16748
+#EXTINF:0 tvg-id="Sbtsp.br" group-title="CANAIS: HD",SBT SP HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16749
+#EXTINF:0 tvg-id="Space.br" group-title="CANAIS: HD",Space HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16750
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="CANAIS: HD",SporTV 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16751
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="CANAIS: HD",SporTV 3 HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16752
+#EXTINF:0 tvg-id="Sportv.br" group-title="CANAIS: HD",SporTV HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16753
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="CANAIS: HD",Studio Universal HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16754
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="CANAIS: HD",SyFy HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16755
+#EXTINF:0 tvg-id="Tcfun.br" group-title="CANAIS: HD",Telecine Fun HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16756
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="CANAIS: HD",Telecine Pipoca HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16757
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="CANAIS: HD",Telecine Premium HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16758
+#EXTINF:0 tvg-id="Tctouch.br" group-title="CANAIS: HD",Telecine Touch HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16759
+#EXTINF:0 tvg-id="tnt" group-title="CANAIS: HD",TNT HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16760
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",TNT Sies HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16761
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="CANAIS: HD",Tooncast HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16762
+#EXTINF:0 tvg-id="Universal.uk" group-title="CANAIS: HD",Universal Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16763
+#EXTINF:0 tvg-id="Viva.uk" group-title="CANAIS: HD",Viva HD+
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/16764
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",BBB 21 CONFESSIONARIO
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/24570
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",BBB-1 4K
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/25488
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",BBB-2 4K
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/25489
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",BBB-Mosaico 4K
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/25490
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",Carioca-21 UHD
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/26369
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",Copa do Nordeste UHD
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/26615
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",DAZN UHD
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/26616
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",Carioca-21 2 UHD
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/26637
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",GLOBO TV VERDES MARES HD
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/33736
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: HD",Like HD
+http://xcui.vitvabc.xyz:8880/287994003075/287994003075/33742
