@@ -1,68 +1,9 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="CHOPPERTOWN.us" group-title="Auto" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c5eb78083e72bec0d0522",CHOPPERTOWN
-https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-id="HarleyDavidsonFactoryTVEN.us" group-title="Auto" tvg-logo="https://i.imgur.com/DQOp8Ft.png",Harley Davidson Factory TV EN
-https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
-#EXTINF:-1  tvg-id="HarleyDavidsonRacingTVEN.us" group-title="Auto" tvg-logo="https://i.imgur.com/DQOp8Ft.png",Harley Davidson Racing TV EN
-https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
-#EXTINF:-1  tvg-id="HarleyDavidsonRidesTVEN.us" group-title="Auto" tvg-logo="https://i.imgur.com/DQOp8Ft.png",Harley Davidson Rides TV EN
-https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
-#EXTINF:-1  tvg-id="HarleyDavidsonTVEN.us" group-title="Auto" tvg-logo="https://i.imgur.com/DQOp8Ft.png",Harley Davidson TV EN
-https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
-#EXTINF:-1  tvg-id="Motorcyclist.us" group-title="Auto" tvg-logo="https://i.imgur.com/QIEhpPp.png",Motorcyclist
-https://a.jsrdn.com/broadcast/256ad9e679/+0000/c.m3u8
-#EXTINF:-1  tvg-id="MotorCyclistBumblebee.us" group-title="Auto" tvg-logo="https://i.imgur.com/QIEhpPp.png",MotorCyclist (Bumblebee)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
-#EXTINF:-1  tvg-id="MotorvisionXUMO.us" group-title="Auto" tvg-logo="https://i.imgur.com/WPklHVE.jpg",Motorvision (XUMO)
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
-#EXTINF:-1  tvg-id="PlutoCars.us" group-title="Auto" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/PlutoTV_Cars_190x190.png?raw=true",Pluto Cars
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c12ba66eae03059cbdc77f2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-id="AutoMotorSport.us" group-title="Auto" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png",Pluto TV Auto Motor Sport
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1  tvg-id="PlutoTVCars.us" group-title="Auto" tvg-logo="http://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png",Pluto TV Cars
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=663&deviceId=5812b3a4249444e05d09cc46&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1  tvg-id="FullCustomGarage.us" group-title="Auto" tvg-logo="https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png",Pluto TV Full Custom Garage
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1  tvg-id="PlutoTVMotor.us" group-title="Auto" tvg-logo="https://images.pluto.tv/channels/5db0510962948d000961d3c6/colorLogoPNG.png",Pluto TV Motor
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0510962948d000961d3c6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1  tvg-id="PowerNation.us" group-title="Auto" tvg-logo="https://i.imgur.com/iJmj6zC.png",Power Nation
-https://rtmtv-powernation-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="PowerNation.us" group-title="Auto" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/powernation_190x190.png?raw=true",Power Nation
-https://rtmtv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="PowerNationUS.us" group-title="Auto" tvg-logo="https://i.imgur.com/iJmj6zC.png",Power Nation (US) (720p)
-https://rtmtv-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="I25.7.97124.zap2it.com" group-title="Auto" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",TV25.7 Rev'n
-https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
-#EXTINF:-1  tvg-id="30AInvestmentPitch.us" group-title="Business" tvg-logo="https://i.imgur.com/CKCtZo7.png",30A Investment Pitch
-https://www.30a-tv.com/InvPit.m3u8
-#EXTINF:-1  tvg-id="Ameritrade.us" group-title="Business" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png",Ameritrade
-https://tdameritrade-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="BloombergHT.us" group-title="Business" tvg-logo="https://i.imgur.com/6aarbHM.jpg",Bloomberg HT
-https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
 #EXTINF:-1  tvg-id="BloombergTV.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="BloombergTVAustralia.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV (Australia)
-https://bloomberg-bloomberg-2-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="BloombergTVBelgium.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV (Belgium)
-https://bloomberg-bloomberg-1-be.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="BloombergTVBrazil.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV (Brazil)
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="BloombergTVDenmark.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV (Denmark)
-https://bloomberg-bloomberg-1-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="BloombergTVFinland.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV (Finland)
-https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="BloombergTVIreland.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV (Ireland)
-https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="BloombergTVLuxemburg.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV (Luxemburg)
-https://bloomberg-bloomberg-1-lu.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="BloombergTVMexico.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV (Mexico)
-https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="BloombergTVNorway.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV (Norway)
-https://bloomberg-bloomberg-1-no.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="BloombergTVPlutoTV.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=224&deviceId=54ff7ba69222cb1c2624c584&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1  tvg-id="BloombergTVPortugal.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV (Portugal)
-https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="BloombergTVUS.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV US (180p)
 https://ch.iptvmate.net/d45029521a599f98f4f0383aacc33b92.m3u8
 #EXTINF:-1  tvg-id="BloombergTVUS.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV US (720p)
@@ -73,28 +14,12 @@ https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 https://www.bloomberg.com/media-manifest/streams/politics.m3u8
 #EXTINF:-1  tvg-id="BloombergTVPlus.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV+ (2160p)
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="BloombergTVPlusFrance.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV+ (France) (2160p)
-https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="BloombergTVPlusUS.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV+ (Phoenix) (1080p)
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1  tvg-id="BloombergTVPlusSpain.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV+ (Spain)
-https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="BloombergTVPlusUS.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV+ US (1080p)
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1  tvg-id="BloombergUSDesktop.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg US Desktop
-https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-#EXTINF:-1  tvg-id="BloombergMeiGuo.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg(美国)
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1  tvg-id="BloombergPlus4K.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg+ 4K (2160p)
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="BusinessRockstars.us" group-title="Business" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BusinessRockstars_1400x1400.png?raw=true",Business Rockstars
 https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
-#EXTINF:-1  tvg-id="CNBCArabiya.us" group-title="Business" tvg-logo="https://i.imgur.com/a6QmjRT.png",CNBC Arabiya (720p)
-https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
-#EXTINF:-1  tvg-id="CNBCEurope.us" group-title="Business" tvg-logo="https://i.imgur.com/53EgUZN.png",CNBC Europe (480p)
-http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:-1  tvg-id="CNBCIndonesia.us" group-title="Business" tvg-logo="https://i.imgur.com/53EgUZN.png",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="FOXBusiness.us" group-title="Business" tvg-logo="https://i.imgur.com/61wD4dV.png",FOX Business
 http://199.66.95.242:80/1/1172/index.m3u8?token=test
 #EXTINF:-1  tvg-id="RealVision.us" group-title="Business" tvg-logo="https://i.imgur.com/mLUmsCt.png",Real Vision
@@ -103,18 +28,6 @@ https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 https://iptv-all.lanesh4d0w.repl.co/united-states/stockchartstv
 #EXTINF:-1  tvg-id="YahooFinance.us" group-title="Business" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602ab939db63ed4c92785303",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1  tvg-id="YahooFinance.us" group-title="Business" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602ab939db63ed4c92785303",Yahoo! Finance (1080p)
-https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="YahooFinance.us" group-title="Business" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602ab939db63ed4c92785303",Yahoo! Finance
-https://yahoo-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="BloombergTVEMEALiveEvent.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV EMEA Live Event (720p)
-https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1  tvg-id="BloombergTVEurope.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV Europe (2160p)
-https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="BloombergTVEurope.us" group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV Europe (720p)
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1  tvg-id="247RetroTV.us" group-title="Classic" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png",247 Retro TV
-http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
 #EXTINF:-1  tvg-id="AmericanClassicsSTIRR.us" group-title="Classic" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/207935e9-f81c-4e73-9166-0e75e41e7ac3-small3x1_stirr_1219_epg_americanclassics_1920x1080_v2.png?cb=c81e728d9d4c2f636f067f89cc14862c",American Classics (STIRR) (720p)
 https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
 #EXTINF:-1  tvg-id="BonanzaSTIRR.us" group-title="Classic" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/3385dd03-f70f-42e3-b1e6-98b8b5078a8c-small3x1_stirr_0120_epg_Bonanza_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c",Bonanza (STIRR) (720p)
