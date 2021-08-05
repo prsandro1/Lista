@@ -1,7 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1  tvg-id="AutoMotoBumblebee.us" group-title="Auto" tvg-logo="https://i.imgur.com/Se1a8Mm.png",AutoMoto (Bumblebee)
-https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
 #EXTINF:-1  tvg-id="CHOPPERTOWN.us" group-title="Auto" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c5eb78083e72bec0d0522",CHOPPERTOWN
 https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-id="HarleyDavidsonFactoryTVEN.us" group-title="Auto" tvg-logo="https://i.imgur.com/DQOp8Ft.png",Harley Davidson Factory TV EN
