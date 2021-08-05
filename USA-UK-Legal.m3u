@@ -5348,3 +5348,72 @@ https://jukin-weatherspy-2-in.samsung.wurl.com/manifest/playlist.m3u8
 https://jukin-weatherspy-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="WeatherSpyUK.us" group-title="Weather" tvg-logo="https://i.imgur.com/SAZF1cq.jpg",WeatherSpy (UK)
 https://jukin-weatherspy-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT GO HD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT GO HD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1285729810_b796000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT GO SD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT - CENTRO OESTE MT
+http://streamingbr.engelhosting.com.br:1935/tvcentro/ngrp:tvcentro_all/chunklist_w1194166640_b899072.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT PE SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT - PE | CARUARÚ
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT - MA | IMPERATRIZ
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+#EXTINF:0 tvg-id="Globosp.br" group-title="Canais",Globo SD
+https://apk25.futeboltvgratis.com/live/17/playlist.m3u8
+#EXTINF:0 tvg-id="Bandsp.br" group-title="Canais",BAND SP
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Canais",TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:0 tvg-id="Redetv.br" group-title="Canais",Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",BAND PA
+http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?wowzasessionid=1122952623
+#EXTINF:0 tvg-id="ext" group-title="Canais",BAND PA
+http://stmv3.srvstm.com:1935/rbatv12/rbatv12/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV PB
+https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV PB
+https://v5.ciclano.io:1443/8064/8064/chunklist_w1831324492.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV! - RONDÔNIA
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",RECORD TV ÁGUA BOA
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",TV ACRITICA - RECORD AM
+https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",RECORD GO
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w1106684646.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",RECORD GO
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",RIC TV - RECORD PARÁ
+http://streaming.sc.gruporic.com.br:80/show/ric_src.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",RIC TV - RECORD PARÁ
+http://streaming.sc.gruporic.com.br:80/show/ric_hd720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",RECORD RN
+http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
+#EXTINF:0 tvg-id="Record.br" group-title="Canais",RECORD MT
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
+#EXTINF:0 tvg-id="Record.br" group-title="Canais",RECORD MT
+http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",TV VITORIA - RECORD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
