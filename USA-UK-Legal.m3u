@@ -4605,3 +4605,38 @@ http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",TV SERRA VERDE SD
 https://stmv2.srvsh.com.br:443/tvserraverde/tvserraverde/chunklist_w518389202.m3u8
+
+#EXTINF:0 tvg-id="Bandnews.br" group-title="News",Bandnews
+http://212.224.98.205:2200/BR/Band_News_HD-br/index.m3u8?token=
+#EXTINF:0 tvg-id="26TV.ar" group-title="News",Canal 26 (720p)
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Central TV (1080p)
+http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+#EXTINF:0 tvg-id="CGTN.es" group-title="News",CGTN Español
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",France 24 Español (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",HispanTV (480p)
+https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",HispanTV
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Record News (Brazil) (720p)
+https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Record News - TV Guará (MA) (720p) [Not 24/7]
+https://59f2354c05961.streamlock.net:1443/tvguara/tvguara/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",RecordTV Manaus (720p)
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",RecordTV Natal - TV Tropical (480p)
+https://59f2354c05961.streamlock.net:1443/tvtropical/tvtropical/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",TVídeoNews
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",UCL TV (720p)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
+
+
