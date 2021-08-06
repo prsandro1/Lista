@@ -1,65 +1,25 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: 5 StarMax FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17202
+#EXTINF:0 tvg-id="AMC.us" group-title="AMC",US: AMC HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17252
+
+#EXTINF:0 tvg-id="ext" group-title="ANIMAL PLANET",US: ANIMAL PLANET EAST
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17255
+#EXTINF:0 tvg-id="AnimalPlanetHD.us" group-title="ANIMAL PLANET",US: ANIMAL PLANET FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17257
+#EXTINF:0 tvg-id="ext" group-title="ANIMAL PLANET",US: ANIMAL PLANET WEST
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17259
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: 5 USA
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17203
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: 7 WWSB FL Sarasota HD
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17204
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: 3ABN English
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17205
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: 3ABN Kids Network
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17206
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: 3ABN Latino
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17207
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: 3ABN Praise Him Music Network
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17208
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: 3ABN Proclaim
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17209
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: A NBC Sports Philadelphia
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17210
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: A NETWORK EAST
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17211
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: A NETWORK WEST
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17212
-#EXTINF:0 tvg-id="A-EHD.us" group-title="Channels",US: A&E FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17213
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC 7 Sarasota FL [WWSB]
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17215
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC 10 Miami
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17216
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC [KGO-TV]
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17217
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC [WFTV]
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17218
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC [WKRN]
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17219
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC [WTAE]
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17220
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC [WXYZ-DETROIT]
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17221
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Action News
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17222
-#EXTINF:0 tvg-id="WABCNewYorkABCHDEast.us" group-title="Channels",US: ABC East HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17223
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC FAMILY/SPARK
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17224
-#EXTINF:0 tvg-id="ABCFamilyChannel.us" group-title="Channels",US: ABC FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17225
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC houston
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17226
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Las Vegas Nevada
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17227
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC MIAMI HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17228
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Milwaukee
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17229
-#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Channels",US: ABC News HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17230
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Orlando
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17231
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Spark HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17232
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABN
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17233
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABN 2
@@ -68,758 +28,704 @@ http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17234
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17235
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABN Worship
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17236
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ACC Network HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17237
-#EXTINF:0 tvg-id="ActionMaxHDEast.us" group-title="Channels",US: ACTION Max FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17238
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Adult Swim
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17239
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Adventure Sports Network
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17240
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: AFN Prime Atlantic
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17241
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: AFN Prime Pacific HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17242
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: AFN Sport 2
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17243
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: AHC
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17244
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Al Horreya TV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17245
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: AL JAZEERA HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17246
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Al-Mahdi TV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17247
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Alburquerque FOX KRQE
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17248
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Alburquerque NBC KOB
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17249
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Alexandria NBC KALB
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17250
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Almagd TV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17251
-#EXTINF:0 tvg-id="AMC.us" group-title="Channels",US: AMC HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17252
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: American Hero Channel HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17253
-#EXTINF:0 tvg-id="AmericanHeroes.us" group-title="Channels",US: AMERICAN HEROES HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17254
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ANIMAL PLANET EAST
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17255
-#EXTINF:0 tvg-id="AnimalPlanetHD.us" group-title="Channels",US: ANIMAL PLANET FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17257
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ANIMAL PLANET WEST
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17259
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Antenna TV
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17261
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Apologetics Channel
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17262
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Arabic Debate
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17263
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Ariana Afghanistan International TV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17264
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Ariana TV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17265
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ASPIRE TV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17266
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: AssyriaSat
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17267
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: AT&T SPORTSNET HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17268
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Augusta
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17269
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Augusta FOX WFXG
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17270
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Augusta NBC WAGT
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17271
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: AWE Channel
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17272
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: AXS TV HD
+EXTINF:0 tvg-id="ext" group-title="Channels",US: AXS TV HD
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17273
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Ayeneh TV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17274
-#EXTINF:0 tvg-id="BabyFirst.us" group-title="Channels",US: BABY FIRST
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17275
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Baby TV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17276
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BabyTV Spanish
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17278
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Baton Rouge FOX WGMB
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17279
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Baton Rouge NBC WVLA
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17280
-#EXTINF:0 tvg-id="BBCAmericaHD.us" group-title="Channels",US: BBC America HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17281
-#EXTINF:0 tvg-id="BBCWorldNewsHD.us" group-title="Channels",US: BBC WORLD NEWS HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17282
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: beIN Sports 4 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17283
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: beIN Sports 5 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17284
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: beIN Sports 6 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17285
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: beIN Sports 7 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17286
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: beIN Sports 8 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17287
-#EXTINF:0 tvg-id="beINSPORTSHD.us" group-title="Channels",US: beIN Sports FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17288
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Channels",US: beIN Sports USA HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17289
-#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Channels",US: beIN Sports Ñ
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17290
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Belmont FOX WJZY
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ACC Network HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17237
+
+#EXTINF:0 tvg-id="ext" group-title="Music",US: 3ABN Praise Him Music Network
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17208
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",US: A NBC Sports Philadelphia
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17210
+#EXTINF:0 tvg-id="ext" group-title="SPORT",US: AT&T SPORTSNET HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17268
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",US: A NETWORK EAST
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17211
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",US: A NETWORK WEST
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17212
+#EXTINF:0 tvg-id="A-EHD.us" group-title="Entertainment",US: A&E FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17213
+
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC 7 Sarasota FL [WWSB]
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17215
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC 10 Miami
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17216
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC [KGO-TV]
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17217
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC [WFTV]
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17218
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC [WKRN]
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17219
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC [WTAE]
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17220
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC [WXYZ-DETROIT]
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17221
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC Action News
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17222
+#EXTINF:0 tvg-id="WABCNewYorkABCHDEast.us" group-title="ABC",US: ABC East HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17223
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC FAMILY/SPARK
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17224
+#EXTINF:0 tvg-id="ABCFamilyChannel.us" group-title="ABC",US: ABC FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17225
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC houston
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17226
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC Las Vegas Nevada
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17227
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC MIAMI HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17228
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC Milwaukee
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17229
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="ABC",US: ABC News HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17230
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC Orlando
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17231
+#EXTINF:0 tvg-id="ext" group-title="ABC",US: ABC Spark HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17232
+
+#EXTINF:0 tvg-id="ext" group-title="AFN",US: AFN Prime Atlantic
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17241
+#EXTINF:0 tvg-id="ext" group-title="AFN",US: AFN Prime Pacific HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17242
+#EXTINF:0 tvg-id="ext" group-title="AFN",US: AFN Sport 2
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17243
+
+#EXTINF:0 tvg-id="ext" group-title="FOX",US: Alburquerque FOX KRQE
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17248
+#EXTINF:0 tvg-id="ext" group-title="FOX",US: Augusta FOX WFXG
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17270
+#EXTINF:0 tvg-id="ext" group-title="FOX",US: Belmont FOX WJZY
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17291
-#EXTINF:0 tvg-id="BET.us" group-title="Channels",US: BET HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17292
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BET HER FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17293
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BET JAMS
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17294
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BET SOUL HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17295
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BET West HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17296
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bible Explorations TV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17297
-#EXTINF:0 tvg-id="BTNHD.us" group-title="Channels",US: BIG TEN NETWORK HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17298
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Billings NBC KULR
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17299
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Binghamton NBC WBGH
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17300
-#EXTINF:0 tvg-id="BloombergTVHD.us" group-title="Channels",US: Bloomberg HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17301
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bloomberg News
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17302
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bloomington FOX WYZZ
+#EXTINF:0 tvg-id="ext" group-title="FOX",US: Bloomington FOX WYZZ
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17303
-#EXTINF:0 tvg-id="Boomerang.us" group-title="Channels",US: Boomerang HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17304
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Boston NBC WBTS
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17305
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bounce TV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17306
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bowling Green NBC WNKY
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17307
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BOX OFFICE 1 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17308
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BOX OFFICE 2 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17309
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BOX OFFICE 3 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17310
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BOX OFFICE 4 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17311
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BOX OFFICE 5 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17312
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BOX OFFICE 6 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17313
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BOX OFFICE 7 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17314
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BOX OFFICE 8 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17315
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bravo East HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17316
-#EXTINF:0 tvg-id="BravoHD.us" group-title="Channels",US: Bravo FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17317
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bravo West
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17318
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Breaking The Chains
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17319
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BRITS & HITS
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17320
-#EXTINF:0 tvg-id="BTNHD.us" group-title="Channels",US: BTN HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17321
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Buffalo NBC WGRZ
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17322
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Buffalo TV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17323
-#EXTINF:0 tvg-id="BUZZTV.us" group-title="Channels",US: BUZZR TV HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17324
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BYU HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17325
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BYU Sports
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17326
-#EXTINF:0 tvg-id="CSPAN.us" group-title="Channels",US: C-SPAN 1 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17327
-#EXTINF:0 tvg-id="CSPAN2.us" group-title="Channels",US: C-SPAN 2 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17328
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: C-SPAN 3 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17329
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Caldwell FOX KNIN
+#EXTINF:0 tvg-id="ext" group-title="FOX",US: Caldwell FOX KNIN
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17330
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: California Music Channel FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17331
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cape Coral FOX WFTX
+#EXTINF:0 tvg-id="ext" group-title="FOX",US: Cape Coral FOX WFTX
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17333
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CAPITAL TV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17334
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CARTOON NETWORK (East) HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17335
-#EXTINF:0 tvg-id="CartoonNetworkHD.us" group-title="Channels",US: Cartoon Network HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17337
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cartoon Network Pacific
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17339
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBN Español
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17341
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBN HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17342
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBN News
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17343
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 2 WBM (Chicago) HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17344
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 5 Kansas City KCTV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17345
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 8 Knoxville TN HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17346
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 10 Colorado
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17347
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 10 Columbus
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17348
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 11 Dallas
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17349
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 11 Fort Myers HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17350
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 11 Houston
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17351
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 12 Cincinnati
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17352
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 19 Cleveland
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17353
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 38 Boston WSBK-TV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17354
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 47 Jacksonville
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17355
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Atlanta
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17356
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS ATLANTA GA WGCL
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17357
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Bakersfield
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17358
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Baltimore
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17359
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Boston
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17360
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS BOSTON MA WBZ
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17361
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Charlotte HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17362
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS CHARLOTTE NC WBTV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17363
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Chicago
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17364
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Cleveland
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17365
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS CLEVELAND OH WOIO
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17366
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS COLUMBUS HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17367
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS COLUMBUS OH WBNS
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17368
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Dallas
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17369
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS DALLAS TX KTVT
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17370
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS DENVER CO KCNC
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17371
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS DENVER HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17372
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS DETROIT HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17373
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS DETROIT MI WWJ
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17374
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS East
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17375
-#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Channels",US: CBS FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17376
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Goldsboro North Carolina HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17377
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS GREENSBORO HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17378
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS GREENSBORO NC WFMY
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17379
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS HARTFORD CT WFSB
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17380
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Hartford HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17381
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Houston Texas HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17382
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Illinois Chicago HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17383
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Jacksonville
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17384
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Kansas City HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17385
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KANSAS CITY MO KCTV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17386
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KBOI Boise
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17387
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KCAL Los Angeles
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17388
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KCCI Des Moines-Ames
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17389
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KDBC El Paso
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17390
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KEYE Austin
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17391
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KFVS Cape Girardeau
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17392
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KGAN Cedar Rapids
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17393
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KGBT Harlingen
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17394
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KGMB Honolulu
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17395
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KIMA Yakima
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17396
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KION Monterey
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17397
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KKTV Colorado Springs
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17398
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KLAS Las Vegas
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17399
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KMTV Omaha
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17400
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KOIN Portland
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17401
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KOLD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17402
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KOLN Lincoln
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17403
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KOTV Tulsa
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17404
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KOVR Stockton
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17405
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KREM Spokane
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17406
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KRQE Albuquerque
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17407
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KSLA Shreveport
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17408
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KTHV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17409
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KTVN Reno
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17410
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KTVT Fort Worth
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17411
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KTXA Fort Worth
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17412
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KUTV Salt Lake City
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17413
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KVAL Eugene
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17414
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KWTV Oklahoma City
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17415
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KXJB Laramie
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17416
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KYTX Nacogdoches
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17417
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KZTV Corpus Christi
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17418
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Lexington
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17419
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Los Angeles California HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17420
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS MIAMI FL WFOR
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17421
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS MILWAUKEE WI WDJT
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17422
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS MINNEAPOLIS HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17423
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS MINNEAPOLIS MN WCCO
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17424
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS New Orleans
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17425
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS NEW ORLEANS LA WWL
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17426
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS New York
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17427
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS NEW YORK NY WCBS
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17428
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS News HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17429
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Orlando
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17430
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS ORLANDO FL WKMG
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17431
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS PHILADELPHIA PA KYW
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17432
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS PHOENIX AZ KPHO
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17433
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS PITTSBURGH PA KDKA
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17434
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS POP
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17435
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS REALITY
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17436
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS SAN ANTONIO TX KENS
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17437
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS San Diego
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17438
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS SAN DIEGO CA KFMB
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17439
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS San Francisco
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17440
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS SAN FRANCISCO CA KPIX
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17441
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Seattle
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17442
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS SEATTLE WA KIRO
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17443
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Sports HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17444
-#EXTINF:0 tvg-id="CBSSportsNetworkHD.us" group-title="Channels",US: CBS Sports Network HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17445
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS ST LOUIS MO KMOV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17446
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS TAMPA FL WTSP
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17447
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Waco TX
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17448
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WAFB Baton Rouge
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17449
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WAKA
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17450
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Washington
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17451
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WASHINGTON DC WUSA
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17452
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WCAX Burlington
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17453
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WCBI Columbus
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17454
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WCBS New York
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17455
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WCSC Charleston
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17456
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WDBJ Roanoke
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17457
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WDEF Chattanooga
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17458
-#EXTINF:0 tvg-id="KCBSLosAngelesCBSHDWest.us" group-title="Channels",US: CBS West
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17459
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WEVV Evansville
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17460
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WFRV Green Bay
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17461
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WGME Portland
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17462
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WHIO Dayton
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17463
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WHP Detroit
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17464
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WINK Fort Myers
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17465
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WISC Madison
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17466
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WIVB Buffalo
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17467
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WKBN Youngstown
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17468
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WKBT La Crosse
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17469
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WKRG
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17470
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WLKY Louisville
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17471
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WLNS Lansing
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17472
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WLTX Columbia
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17473
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WMAZ Macon
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17474
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WNCT Greenville
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17475
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WNEM Bay City
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17476
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WOIO Shaker Heights
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17477
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WPEC West Palm Beach
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17478
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WPRI Providence
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17479
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WRDW Augusta
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17480
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WRGB Schenectady
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17481
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WSBT South Bend
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17482
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WSHM Springfield
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17483
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WTAJ Altoona
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17484
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WTOC Savannah
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17485
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WTOL Toledo
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17486
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WTSP St Petersburg
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17487
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WTVH Syracuse
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17488
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WWAY Wilmington
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17489
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WWMT Kalamazoo
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17490
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WWTV Cadillac
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17491
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS WYOU Wilkes-Barre
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17492
-#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Channels",US: CBSN FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17493
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBSN News
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17494
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CGTN America
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17495
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CGTN Documentary
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17496
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Channel One HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17497
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Charles FOX Net Lake
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17498
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cheddar
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17499
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cheddar Business
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17500
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cheddar News
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17501
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Chicago FOX WFLD
+#EXTINF:0 tvg-id="ext" group-title="fox",US: Chicago FOX WFLD
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17502
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Christian Youth Channel
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17503
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 01 PPV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17504
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 02 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17505
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 3 Aladdin
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17506
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 03 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17507
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 4 Alita Battle Angel HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17508
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 04 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17509
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 05 PPV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17510
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 6 Annabelle Comes Home
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17511
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 06 PPV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17512
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 07 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17513
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 08 PPV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17514
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 09 End Game
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17515
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 09 PPV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17516
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 10 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17517
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 11 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17518
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 12 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17519
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 13 PPV HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17520
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 14 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17521
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 15 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17522
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 15 The Irishman
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17523
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 17 PPV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17524
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 18 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17525
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 19 Hellboy
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17526
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 19 PPV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17527
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 20 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17528
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 20 Venom
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17529
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 21 PPV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17530
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 22 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17531
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 23 PPV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17532
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 24 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17533
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 25 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17534
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 25 The Secret Life Of Pets 2
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17535
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 26 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17536
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 27 PPV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17537
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 28 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17538
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 29 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17539
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 30 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17540
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 31 John Wick Chapter 3
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17541
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 31 PPV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17542
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 32 PPV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17543
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 33 Danger Close
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17544
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 33 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17545
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 34 Godzilla King Of The Monsters
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17546
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 34 PPV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17547
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 35 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17548
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 36 PPV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17549
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 37 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17550
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 38 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17551
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 38 The Report
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17552
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 39 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17553
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 39 Scary Stories To Tell In The Dark
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17554
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 40 PPV FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17555
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinema 41 Rambo Last Blood
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17556
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinemax (West) HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17557
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinemax 5 HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17558
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinemax Action 2 FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17559
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinemax Action HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17560
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinemax Action Max East
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17561
-#EXTINF:0 tvg-id="ActionMaxHD.us" group-title="Channels",US: CINEMAX ACTION MAX HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17562
-#EXTINF:0 tvg-id="CinemaxEastHD.us" group-title="Channels",US: Cinemax East FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17563
-#EXTINF:0 tvg-id="CinemaxEastHD.us" group-title="Channels",US: Cinemax FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17564
-#EXTINF:0 tvg-id="MoreMAX.us" group-title="Channels",US: CineMax More
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17565
-#EXTINF:0 tvg-id="MoreMAXHD.us" group-title="Channels",US: CINEMAX Moremax FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17566
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinemax Moviemax
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17567
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinemax Outer Max
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17568
-#EXTINF:0 tvg-id="ThrillerMAXHD.us" group-title="Channels",US: Cinemax Thriller Max HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17569
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: City FOX Net Rapid
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17570
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CMC
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17571
-#EXTINF:0 tvg-id="CMTHD.us" group-title="Channels",US: CMT HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17572
-#EXTINF:0 tvg-id="CNBCHD.us" group-title="Channels",US: CNBC FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17573
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CNBC News
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17574
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CNBC WORLD FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17575
-#EXTINF:0 tvg-id="CNN.us" group-title="Channels",US: CNN FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17576
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CNN News
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17577
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Colorado Springs FOX KXRM
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17578
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Columbia NBC WIS
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17579
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Columbus FOX WXTX
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17580
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Columbus NBC WCMH
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17581
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Columbus NBC WTVA
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17582
-#EXTINF:0 tvg-id="ComedyCentralHD.us" group-title="Channels",US: Comedy Central HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17583
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: COMEDY CENTRAL West HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17584
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: COMET TV
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17585
-#EXTINF:0 tvg-id="CookingChannel.us" group-title="Channels",US: COOKING Channel FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17586
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: COURT TV HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17587
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: COZI TV HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17588
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CP24
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17589
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Crime+ Investigation FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17590
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cross
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17592
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW 11
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17593
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW ATLANTA GA WUPA
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17594
-#EXTINF:0 tvg-id="WDCWWashingtonDCCW.us" group-title="Channels",US: CW HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17595
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: DANCE EDM
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17596
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Dare to Dream Network
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17597
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Davenport FOX KLJB
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17598
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Davenport NBC KWQC
+
+#EXTINF:0 tvg-id="ext" group-title="NBC",US: Alburquerque NBC KOB
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17249
+#EXTINF:0 tvg-id="ext" group-title="NBC",US: Alexandria NBC KALB
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17250
+#EXTINF:0 tvg-id="ext" group-title="NBC",US: Augusta NBC WAGT
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17271
+#EXTINF:0 tvg-id="ext" group-title="NBC",US: Billings NBC KULR
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17299
+#EXTINF:0 tvg-id="ext" group-title="NBC",US: Binghamton NBC WBGH
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17300
+#EXTINF:0 tvg-id="ext" group-title="NBC",US: Davenport NBC KWQC
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17599
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Decatur NBC WAND
+#EXTINF:0 tvg-id="ext" group-title="NBC",US: Decatur NBC WAND
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17600
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Des Moines NBC WHO
+#EXTINF:0 tvg-id="ext" group-title="NBC",US: Des Moines NBC WHO
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17601
-#EXTINF:0 tvg-id="DestinationAmericaHD.us" group-title="Channels",US: Destination America HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17602
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Detroit NBC WDIV
+#EXTINF:0 tvg-id="ext" group-title="NBC",US: Detroit NBC WDIV
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17603
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discipleship Arabic
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17604
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery Channel EAST
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17605
-#EXTINF:0 tvg-id="Discovery.us" group-title="Channels",US: Discovery Channel FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17607
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery Channel West HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17609
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery FAMILIA HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17610
-#EXTINF:0 tvg-id="DiscoveryFamilyChannel.us" group-title="Channels",US: Discovery Family HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17612
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery Life HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17614
-#EXTINF:0 tvg-id="ScienceHD.us" group-title="Channels",US: Discovery Science FHD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17616
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery TLC
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17618
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery TLC Pacific
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17620
-#EXTINF:0 tvg-id="Velocity.us" group-title="Channels",US: Discovery Velocity HD
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17622
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney Channel EAST
+
+#EXTINF:0 tvg-id="BBCAmericaHD.us" group-title="BBC",US: BBC America HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17281
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",US: beIN Sports 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17283
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",US: beIN Sports 5 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17284
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",US: beIN Sports 6 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17285
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",US: beIN Sports 7 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17286
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",US: beIN Sports 8 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17287
+#EXTINF:0 tvg-id="beINSPORTSHD.us" group-title="BEIN SPORT",US: beIN Sports FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17288
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="BEIN SPORT",US: beIN Sports USA HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17289
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="BEIN SPORT",US: beIN Sports Ñ
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17290
+
+#EXTINF:0 tvg-id="BloombergTVHD.us" group-title="Bloomberg",US: Bloomberg HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17301
+#EXTINF:0 tvg-id="ext" group-title="Bloomberg",US: Bloomberg News
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17302
+
+#EXTINF:0 tvg-id="Boomerang.us" group-title="Boomerang",US: Boomerang HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17304
+
+#EXTINF:0 tvg-id="ext" group-title="BOX",US: BOX OFFICE 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17308
+#EXTINF:0 tvg-id="ext" group-title="BOX",US: BOX OFFICE 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17309
+#EXTINF:0 tvg-id="ext" group-title="BOX",US: BOX OFFICE 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17310
+#EXTINF:0 tvg-id="ext" group-title="BOX",US: BOX OFFICE 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17311
+#EXTINF:0 tvg-id="ext" group-title="BOX",US: BOX OFFICE 5 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17312
+#EXTINF:0 tvg-id="ext" group-title="BOX",US: BOX OFFICE 6 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17313
+#EXTINF:0 tvg-id="ext" group-title="BOX",US: BOX OFFICE 7 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17314
+#EXTINF:0 tvg-id="ext" group-title="BOX",US: BOX OFFICE 8 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17315
+
+#EXTINF:0 tvg-id="ext" group-title="BRAVO",US: Bravo East HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17316
+#EXTINF:0 tvg-id="BravoHD.us" group-title="BRAVO",US: Bravo FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17317
+#EXTINF:0 tvg-id="ext" group-title="BRAVO",US: Bravo West
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17318
+
+#EXTINF:0 tvg-id="CSPAN.us" group-title="C-SPAN",US: C-SPAN 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17327
+#EXTINF:0 tvg-id="CSPAN2.us" group-title="C-SPAN",US: C-SPAN 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17328
+#EXTINF:0 tvg-id="ext" group-title="C-SPAN",US: C-SPAN 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17329
+
+#EXTINF:0 tvg-id="ext" group-title="CBN",US: CBN Español
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17341
+#EXTINF:0 tvg-id="ext" group-title="CBN",US: CBN HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17342
+#EXTINF:0 tvg-id="ext" group-title="CBN",US: CBN News
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17343
+
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS 2 WBM (Chicago) HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17344
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS 5 Kansas City KCTV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17345
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS 8 Knoxville TN HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17346
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS 10 Colorado
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17347
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS 10 Columbus
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17348
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS 11 Dallas
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17349
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS 11 Fort Myers HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17350
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS 11 Houston
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17351
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS 12 Cincinnati
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17352
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS 19 Cleveland
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17353
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS 38 Boston WSBK-TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17354
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS 47 Jacksonville
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17355
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Atlanta
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17356
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS ATLANTA GA WGCL
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17357
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Bakersfield
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17358
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Baltimore
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17359
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Boston
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17360
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS BOSTON MA WBZ
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17361
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Charlotte HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17362
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS CHARLOTTE NC WBTV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17363
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Chicago
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17364
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Cleveland
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17365
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS CLEVELAND OH WOIO
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17366
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS COLUMBUS HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17367
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS COLUMBUS OH WBNS
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17368
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Dallas
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17369
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS DALLAS TX KTVT
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17370
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS DENVER CO KCNC
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17371
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS DENVER HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17372
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS DETROIT HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17373
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS DETROIT MI WWJ
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17374
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS East
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17375
+#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="CBS",US: CBS FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17376
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Goldsboro North Carolina HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17377
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS GREENSBORO HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17378
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS GREENSBORO NC WFMY
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17379
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS HARTFORD CT WFSB
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17380
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Hartford HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17381
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Houston Texas HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17382
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Illinois Chicago HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17383
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Jacksonville
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17384
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Kansas City HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17385
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KANSAS CITY MO KCTV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17386
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KBOI Boise
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17387
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KCAL Los Angeles
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17388
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KCCI Des Moines-Ames
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17389
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KDBC El Paso
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17390
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KEYE Austin
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17391
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KFVS Cape Girardeau
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17392
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KGAN Cedar Rapids
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17393
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KGBT Harlingen
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17394
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KGMB Honolulu
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17395
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KIMA Yakima
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17396
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KION Monterey
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17397
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KKTV Colorado Springs
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17398
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KLAS Las Vegas
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17399
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KMTV Omaha
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17400
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KOIN Portland
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17401
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KOLD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17402
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KOLN Lincoln
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17403
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KOTV Tulsa
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17404
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KOVR Stockton
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17405
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KREM Spokane
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17406
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KRQE Albuquerque
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17407
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KSLA Shreveport
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17408
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KTHV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17409
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KTVN Reno
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17410
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KTVT Fort Worth
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17411
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KTXA Fort Worth
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17412
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KUTV Salt Lake City
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17413
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KVAL Eugene
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17414
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KWTV Oklahoma City
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17415
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KXJB Laramie
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17416
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KYTX Nacogdoches
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17417
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS KZTV Corpus Christi
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17418
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Lexington
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17419
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Los Angeles California HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17420
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS MIAMI FL WFOR
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17421
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS MILWAUKEE WI WDJT
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17422
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS MINNEAPOLIS HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17423
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS MINNEAPOLIS MN WCCO
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17424
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS New Orleans
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17425
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS NEW ORLEANS LA WWL
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17426
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS New York
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17427
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS NEW YORK NY WCBS
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17428
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS News HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17429
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Orlando
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17430
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS ORLANDO FL WKMG
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17431
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS PHILADELPHIA PA KYW
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17432
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS PHOENIX AZ KPHO
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17433
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS PITTSBURGH PA KDKA
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17434
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS POP
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17435
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS REALITY
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17436
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS SAN ANTONIO TX KENS
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17437
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS San Diego
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17438
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS SAN DIEGO CA KFMB
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17439
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS San Francisco
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17440
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS SAN FRANCISCO CA KPIX
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17441
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Seattle
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17442
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS SEATTLE WA KIRO
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17443
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Sports HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17444
+#EXTINF:0 tvg-id="CBSSportsNetworkHD.us" group-title="CBS",US: CBS Sports Network HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17445
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS ST LOUIS MO KMOV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17446
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS TAMPA FL WTSP
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17447
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Waco TX
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17448
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WAFB Baton Rouge
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17449
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WAKA
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17450
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS Washington
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17451
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WASHINGTON DC WUSA
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17452
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WCAX Burlington
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17453
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WCBI Columbus
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17454
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WCBS New York
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17455
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WCSC Charleston
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17456
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WDBJ Roanoke
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17457
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WDEF Chattanooga
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17458
+#EXTINF:0 tvg-id="KCBSLosAngelesCBSHDWest.us" group-title="CBS",US: CBS West
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17459
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WEVV Evansville
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17460
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WFRV Green Bay
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17461
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WGME Portland
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17462
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WHIO Dayton
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17463
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WHP Detroit
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17464
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WINK Fort Myers
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17465
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WISC Madison
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17466
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WIVB Buffalo
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17467
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WKBN Youngstown
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17468
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WKBT La Crosse
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17469
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WKRG
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17470
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WLKY Louisville
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17471
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WLNS Lansing
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17472
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WLTX Columbia
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17473
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WMAZ Macon
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17474
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WNCT Greenville
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17475
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WNEM Bay City
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17476
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WOIO Shaker Heights
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17477
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WPEC West Palm Beach
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17478
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WPRI Providence
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17479
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WRDW Augusta
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17480
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WRGB Schenectady
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17481
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WSBT South Bend
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17482
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WSHM Springfield
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17483
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WTAJ Altoona
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17484
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WTOC Savannah
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17485
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WTOL Toledo
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17486
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WTSP St Petersburg
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17487
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WTVH Syracuse
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17488
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WWAY Wilmington
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17489
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WWMT Kalamazoo
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17490
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WWTV Cadillac
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17491
+#EXTINF:0 tvg-id="ext" group-title="CBS",US: CBS WYOU Wilkes-Barre
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17492
+
+#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="CBSN",US: CBSN FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17493
+#EXTINF:0 tvg-id="ext" group-title="CBSN",US: CBSN News
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17494
+
+#EXTINF:0 tvg-id="CNBCHD.us" group-title="CNBC",US: CNBC FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17573
+#EXTINF:0 tvg-id="ext" group-title="CNBC",US: CNBC News
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17574
+#EXTINF:0 tvg-id="ext" group-title="CNBC",US: CNBC WORLD FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17575
+
+#EXTINF:0 tvg-id="CNN.us" group-title="CNN",US: CNN FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17576
+#EXTINF:0 tvg-id="ext" group-title="CNN",US: CNN News
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17577
+
+#EXTINF:0 tvg-id="ext" group-title="FOX",US: Colorado Springs FOX KXRM
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17578
+#EXTINF:0 tvg-id="ext" group-title="FOX",US: Columbus FOX WXTX
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17580
+#EXTINF:0 tvg-id="ext" group-title="FOX",US: Davenport FOX KLJB
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17598
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS",US: CARTOON NETWORK (East) HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17335
+#EXTINF:0 tvg-id="CartoonNetworkHD.us" group-title="KIDS",US: Cartoon Network HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17337
+#EXTINF:0 tvg-id="ext" group-title="KIDS",US: Cartoon Network Pacific
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17339
+#EXTINF:0 tvg-id="ext" group-title="KIDS",US: Disney Channel EAST
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17624
-#EXTINF:0 tvg-id="DisneyChannelHD.us" group-title="Channels",US: Disney Channel HD
+#EXTINF:0 tvg-id="DisneyChannelHD.us" group-title="KIDS",US: Disney Channel HD
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17625
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney JR (East) HD
+#EXTINF:0 tvg-id="ext" group-title="KIDS",US: Disney JR (East) HD
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17627
-#EXTINF:0 tvg-id="DisneyJuniorHD.us" group-title="Channels",US: Disney JR HD
+#EXTINF:0 tvg-id="DisneyJuniorHD.us" group-title="KIDS",US: Disney JR HD
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17628
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney XD EAST
+#EXTINF:0 tvg-id="ext" group-title="KIDS",US: Disney XD EAST
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17631
-#EXTINF:0 tvg-id="DisneyXD.us" group-title="Channels",US: Disney XD FHD
+#EXTINF:0 tvg-id="DisneyXD.us" group-title="KIDS",US: Disney XD FHD
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17633
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney XD Pacific
+#EXTINF:0 tvg-id="ext" group-title="KIDS",US: Disney XD Pacific
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17635
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 01 PPV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17504
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 02 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17505
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 3 Aladdin
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17506
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 03 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17507
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 4 Alita Battle Angel HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17508
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 04 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17509
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 05 PPV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17510
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 6 Annabelle Comes Home
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17511
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 06 PPV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17512
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 07 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17513
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 08 PPV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17514
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 09 End Game
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17515
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 09 PPV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17516
+#EXTINF:0 tvg-id="ext" group-title="Movies",US: Cinema 10 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17517
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 11 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17518
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 12 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17519
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 13 PPV HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17520
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 14 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17521
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 15 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17522
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 15 The Irishman
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17523
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 17 PPV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17524
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 18 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17525
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 19 Hellboy
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17526
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 19 PPV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17527
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 20 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17528
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 20 Venom
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17529
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 21 PPV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17530
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 22 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17531
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 23 PPV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17532
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 24 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17533
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 25 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17534
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 25 The Secret Life Of Pets 2
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17535
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 26 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17536
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 27 PPV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17537
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 28 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17538
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 29 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17539
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 30 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17540
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 31 John Wick Chapter 3
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17541
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 31 PPV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17542
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 32 PPV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17543
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 33 Danger Close
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17544
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 33 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17545
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 34 Godzilla King Of The Monsters
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17546
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 34 PPV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17547
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 35 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17548
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 36 PPV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17549
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 37 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17550
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 38 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17551
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 38 The Report
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17552
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 39 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17553
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 39 Scary Stories To Tell In The Dark
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17554
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 40 PPV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17555
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinema 41 Rambo Last Blood
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17556
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinemax (West) HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17557
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinemax 5 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17558
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinemax Action 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17559
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinemax Action HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17560
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinemax Action Max East
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17561
+#EXTINF:0 tvg-id="ActionMaxHD.us" group-title="MOVIES",US: CINEMAX ACTION MAX HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17562
+#EXTINF:0 tvg-id="CinemaxEastHD.us" group-title="MOVIES",US: Cinemax East FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17563
+#EXTINF:0 tvg-id="CinemaxEastHD.us" group-title="MOVIES",US: Cinemax FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17564
+#EXTINF:0 tvg-id="MoreMAX.us" group-title="MOVIES",US: CineMax More
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17565
+#EXTINF:0 tvg-id="MoreMAXHD.us" group-title="MOVIES",US: CINEMAX Moremax FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17566
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinemax Moviemax
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17567
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Cinemax Outer Max
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17568
+#EXTINF:0 tvg-id="ThrillerMAXHD.us" group-title="MOVIES",US: Cinemax Thriller Max HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17569
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: City FOX Net Rapid
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17570
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: 5 StarMax FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17202
+#EXTINF:0 tvg-id="ActionMaxHDEast.us" group-title="MOVIES",US: ACTION Max FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17238
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",US: Crime+ Investigation FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17590
+
+#EXTINF:0 tvg-id="ext" group-title="NBC",US: Columbia NBC WIS
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17579
+#EXTINF:0 tvg-id="ext" group-title="NBC",US: Columbus NBC WCMH
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17581
+#EXTINF:0 tvg-id="ext" group-title="NBC",US: Columbus NBC WTVA
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17582
+
+#EXTINF:0 tvg-id="ComedyCentralHD.us" group-title="COMEDY CENTRAL",US: Comedy Central HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17583
+#EXTINF:0 tvg-id="ext" group-title="COMEDY CENTRAL",US: COMEDY CENTRAL West HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17584
+
+#EXTINF:0 tvg-id="CookingChannel.us" group-title="COOKING",US: COOKING Channel FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17586
+
+#EXTINF:0 tvg-id="DestinationAmericaHD.us" group-title="AMERICA",US: Destination America HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17602
+
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",US: Discovery Channel EAST
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17605
+#EXTINF:0 tvg-id="Discovery.us" group-title="DISCOVERY",US: Discovery Channel FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17607
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",US: Discovery Channel West HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17609
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",US: Discovery FAMILIA HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17610
+#EXTINF:0 tvg-id="DiscoveryFamilyChannel.us" group-title="DISCOVERY",US: Discovery Family HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17612
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",US: Discovery Life HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17614
+#EXTINF:0 tvg-id="ScienceHD.us" group-title="DISCOVERY",US: Discovery Science FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17616
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",US: Discovery TLC
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17618
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",US: Discovery TLC Pacific
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17620
+#EXTINF:0 tvg-id="Velocity.us" group-title="DISCOVERY",US: Discovery Velocity HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17622
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Ditty TV
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17637
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: DIY HD
@@ -924,3 +830,7 @@ http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",TV SERRA VERDE SD
 https://stmv2.srvsh.com.br:443/tvserraverde/tvserraverde/chunklist_w518389202.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="AMERICAN HERO",US: American Hero Channel HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17253
+#EXTINF:0 tvg-id="AmericanHeroes.us" group-title="AMERICAN HERO",US: AMERICAN HEROES HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17254
